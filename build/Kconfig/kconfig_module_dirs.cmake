@@ -1,0 +1,7 @@
+set(kconfig_env_dirs)
+list(APPEND kconfig_env_dirs ZEPHYR_SNIOT_ZEPHYR_TEMPLATE_MODULE_DIR=/home/seatech/my-workspace/sniot_zephyr_template)
+list(APPEND kconfig_env_dirs ZEPHYR_CMSIS_6_MODULE_DIR=/home/seatech/my-workspace/modules/hal/cmsis_6)
+list(APPEND kconfig_env_dirs ZEPHYR_HAL_ESPRESSIF_MODULE_DIR=/home/seatech/my-workspace/modules/hal/espressif)
+list(APPEND kconfig_env_dirs ZEPHYR_HAL_NORDIC_MODULE_DIR=/home/seatech/my-workspace/modules/hal/nordic)
+list(APPEND kconfig_env_dirs ZEPHYR_HAL_STM32_MODULE_DIR=/home/seatech/my-workspace/modules/hal/stm32)
+list(APPEND kconfig_env_dirs ZEPHYR_XTENSA_MODULE_DIR=/home/seatech/my-workspace/modules/hal/xtensa)

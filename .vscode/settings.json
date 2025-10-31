@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "log.h": "c",
+        "global.h": "c",
+        "processing.h": "c"
+    }
+}

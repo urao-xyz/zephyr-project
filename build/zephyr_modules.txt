@@ -1,0 +1,6 @@
+"sniot_zephyr_template":"/home/seatech/my-workspace/sniot_zephyr_template":"/home/seatech/my-workspace/sniot_zephyr_template"
+"cmsis_6":"/home/seatech/my-workspace/modules/hal/cmsis_6":"${ZEPHYR_CMSIS_6_CMAKE_DIR}"
+"hal_espressif":"/home/seatech/my-workspace/modules/hal/espressif":"/home/seatech/my-workspace/modules/hal/espressif/zephyr"
+"hal_nordic":"/home/seatech/my-workspace/modules/hal/nordic":"${ZEPHYR_HAL_NORDIC_CMAKE_DIR}"
+"hal_stm32":"/home/seatech/my-workspace/modules/hal/stm32":"/home/seatech/my-workspace/modules/hal/stm32"
+"xtensa":"/home/seatech/my-workspace/modules/hal/xtensa":"/home/seatech/my-workspace/modules/hal/xtensa"
